@@ -1,0 +1,15 @@
+{
+  "name": "벚꽃 내리는 시대에 결투를 - 카드 데이터베이스",
+  "short_name": "벚꽃결투 카드",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#151019",
+  "theme_color": "#151019",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjIyIiBmaWxsPSIjMTUxMDE5Ii8+PHRleHQgeD0iNTAiIHk9IjcwIiBmb250LXNpemU9IjYyIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj7wn4y4PC90ZXh0Pjwvc3ZnPg==",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
